@@ -6,7 +6,7 @@
 
 # forzadrivingai
 
-An autonomous driving system for Forza that combines OpenCV geometric feature extraction with a Deep Q-Network (DQN) optimization loop built using PyTorch, TorchRL, and Gymnasium.
+An autonomous driving system for Forza that combines OpenCV geometric feature extraction with a PolicyNet optimization loop built using PyTorch, TorchRL, and Gymnasium.
 
 ## Architecture
 
